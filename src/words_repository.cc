@@ -1,4 +1,4 @@
-#include "include/repository.h"
+#include "include/repository"
 
 namespace demo_tdd_cxx
 {

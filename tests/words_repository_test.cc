@@ -1,4 +1,4 @@
-#include "include/repository.h"
+#include "include/repository"
 
 #include <gtest/gtest.h>
 

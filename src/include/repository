@@ -1,0 +1,8 @@
+#ifndef DEMO_TDD_CXX_REPOSITORY
+#define DEMO_TDD_CXX_REPOSITORY
+
+namespace demo_tdd_cxx
+{
+
+} // namespace demo_tdd_cxx
+#endif // DEMO_TDD_CXX_REPOSITORY
