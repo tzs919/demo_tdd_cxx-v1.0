@@ -1,1 +1,4 @@
 add_library(words_repository words_repository.cc)
+
+add_executable(words_app words_app.cc)
+target_link_libraries(words_app words_repository)
