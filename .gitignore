@@ -53,4 +53,6 @@ dkms.conf
 CMakeLists.txt.user
 
 build
+coverage_report
 .DS_Store
+coverage*
